@@ -1,4 +1,14 @@
 theme: jekyll-theme-dinky
+plugins:
+  - jekyll-coffeescript
+  - jekyll-default-layout
+  - jekyll-gist
+  - jekyll-github-metadata
+  - jekyll-optional-front-matter
+  - jekyll-paginate
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+  - jekyll-relative-links
 
 title: EUMEL Suite
 tagline: Tools to manage emails and files
@@ -8,3 +18,6 @@ tags:
   - EUMEL Suite
   - Email Categorizer
   - DOMSE File management
+
+exclude:
+  - docker-compose.yml

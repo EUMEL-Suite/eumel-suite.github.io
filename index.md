@@ -16,7 +16,7 @@ The email categorizer is designed to add a project name to the email's subject. 
 opening and closing tags, e.g. "[" and "]" After sending an email, a dialogue is shown to select a project and see the parsed
 subject. The dialogue shows the subject and the project, if a project is already set in the subject.
 
-![EUMEL Suite Categorizer](Assets/eumel-categorizer.png)
+![EUMEL Suite Categorizer](Assets/categorizer_intro.png)
 
 A so called outlook backstage view is added to configure the settings, storage backends and opening and closing tags. More details
 see [Email Categorizer Details](pages/emailcategorizer.md)
