@@ -2,6 +2,9 @@
 
 This project is an addin for Microsoft Outlook to enrich emails.
 
+[Download latest version](https://github.com/EUMEL-Suite/Eumel.EmailCategorizer/releases) in Github releases.
+
+
 The `EUMEL Suite Email Categorizer` is designed to add a project name, category, or topic to an email's subject before send. Project names are added to the subject with
 opening and closing tags, e.g. `[` and `]`. After sending an email, a dialogue is shown. The dialogue shows the subject and the project,
 if a project is already set in the subject.
