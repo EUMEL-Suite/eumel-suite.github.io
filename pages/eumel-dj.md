@@ -12,28 +12,29 @@ The mobile app uses a QR Code to connect to the application and get a token for 
 
 Login requires a qr-code which is provided by the REST service backend or by the user interface. By default, the uri for the image is e.g. [https://localhost/api/Settings/Init](https://localhost/api/Settings/Init).
 
-![](../Assets/djmobile_login.png?raw=true width=250 center)
+![](../Assets/djmobile_login.png?raw=true){:width="250px"}
 
 The `Playlist` tab shows the current song, upcoming songs and previous songs. The votes for each song are counted and shown as well.
 
-![](/Assets/djmobile_playlist.png?raw=true width=250 center)
+![](/Assets/djmobile_playlist.png?raw=true){:width="250px"}
 
 The `Votes` tab shows the top 100 songs and allows a search for more songs. It shows, if the current user has voted for song. By pressing the heard, the song can be upvoted or the vote removed.
 
-![](/Assets/djmobile_votes.png?raw=true width=250 center)
+![](/Assets/djmobile_votes.png?raw=true){:width="250px"}
 
-The chat is a very simple mesage distribution service which shows all mesages from other user. The aim is showing some kind of public dashboard with comments.
+The `Chat` is a very simple mesage distribution service which shows all mesages from other user. The aim is showing some kind of public dashboard with comments.
 
-![](//Assets/djmobile_chat.png?raw=true width=250 center)
+![](/Assets/djmobile_chat.png?raw=true){:width="250px"}
 
+<img src="/Assets/djmobile_chat.png?raw=true" width="250">
 
-## `EUMEL DJ Desktop` (Desktop)
+## EUMEL DJ Desktop (Desktop)
 
 The desktop app is the media player which manages the playlist, votes and chat messages. The user interface is still under development and only a alpha preview for testing the mobile app is available. Therefore no screenshots are available. The configuration file must be changes manually in `%localappdata%\Eumel Suite\Eumel.Dj.settings.json`.
 
 ## Data Privacy Statement
 
-The EUMEL DJ is designed to work with the minimum of required personal data. Therefore the login name is anonymised and no messages are persistently stored anywhere. Device permissions and data is reduced to a minimum which is required to run the application. See [official data privacy statement](eumel-dj-privacy.html).
+The EUMEL DJ is designed to work with the minimum of required personal data. Therefore the login name is anonymised and no messages are persistently stored anywhere. Device permissions and data is reduced to a minimum which is required to run the application. See [official data privacy statement](eumel-dj-privacy.md).
 
 
 ## Implementation Details
