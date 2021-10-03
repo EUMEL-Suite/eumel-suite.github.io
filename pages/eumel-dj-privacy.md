@@ -1,7 +1,7 @@
 # Privacy Policy
 Your privacy is important to us. IT is EUMEL SUITE's policy to respect your privacy and comply with any applicable law and regulation regarding any personal information we may collect about you, including via our app, EUMEL Dj and its associated services. Personal information is any information about you which can be used to identify you. This includes information about you as a person (such as name, address, and date of birth), your devices, payment details, and even information about how you use an app or online service.
 
-The EUMEL Dj app uses third-party sites and services, so be aware that those sites and services have their own privacy policies. All information as votes, chat messages, your nickname and -if configured by the service- debug information is sent to the third party services. By sending information to the third-party service, you should read their posted privacy policy information about how they collect and use personal information. This Privacy Policy does not apply to any of your activities after you leave our app.
+The EUMEL Dj app uses third-party sites and services, so be aware that those sites and services have their own privacy policies. All information as votes, chat messages, and your nickname is sent to the third party services. By sending information to the third-party service, you should read their posted privacy policy information about how they collect and use personal information. This Privacy Policy does not apply to any of your activities after you leave our app.
 
 This policy is effective as of 3 October 2021.
 
@@ -17,7 +17,7 @@ This app does not log any information internally or external service.
 
 # Device Data
 
-This app does not access any device data or sends any device data to a third party service.
+This app does not access any device data or sends any device data to a third party service. The app uses the camera to read a qr-code, but does not store any pictures. For detailed information about the camera access, read the [privacy policy of ZXing controls](https://github.com/zxing/zxing/wiki/Frequently-Asked-Questions)
 
 # Personal Information
 
