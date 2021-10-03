@@ -4,7 +4,9 @@
 The EUMEL Dj is part of the EUMEL Suite. The EUMEL Dj is a media player with playlist and voting support. The desktop app shows the playlist and the chat mesages as a "party status". 
 The project page can be found [here](https://github.com/EUMEL-Suite/EUMEL.Dj).
 
-A preview of all binaries can be found on [Github](https://github.com/EUMEL-Suite/EUMEL.Dj/releases/tag/EUMEL-Dj).
+A preview of all binaries can be found on [Github](https://github.com/EUMEL-Suite/EUMEL.Dj/). [Download latest version](https://github.com/EUMEL-Suite/EUMEL.Dj/releases) in Github releases.
+
+
 
 
 ## EUMEL DJ Playlist Voting App (Mobile)
@@ -26,8 +28,6 @@ The `Votes` tab shows the top 100 songs and allows a search for more songs. It s
 The `Chat` is a very simple mesage distribution service which shows all mesages from other user. The aim is showing some kind of public dashboard with comments.
 
 ![](/Assets/djmobile_chat.png?raw=true){:width="250px"}
-
-<img src="/Assets/djmobile_chat.png?raw=true" width="250">
 
 ## EUMEL DJ Desktop (Desktop)
 
