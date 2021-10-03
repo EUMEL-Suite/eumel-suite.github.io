@@ -6,25 +6,25 @@ The EUMEL Dj is part of the EUMEL Suite. The EUMEL Dj is a media player with pla
 A preview of all binaries can be found on (Github)[https://github.com/EUMEL-Suite/EUMEL.Dj/releases/tag/EUMEL-Dj].
 
 
-## `EUMEL DJ Playlist Voting App` (Mobile)
+## EUMEL DJ Playlist Voting App (Mobile)
 
 The mobile app uses a QR Code to connect to the application and get a token for communication. After login, the user can see the playlist, vote for songs (and remove a vote) and send messages to the server and other users. The settings page shows information about the user and the user can control the player, if s/he has admin access. 
 
 Login requires a qr-code which is provided by the REST service backend or by the user interface. By default, the uri for the image is e.g. [https://localhost/api/Settings/Init](https://localhost/api/Settings/Init).
 
-![](/Assets/djmobile_login.png | width=250)
+![](../Assets/djmobile_login.png?raw=true width=250 center)
 
 The `Playlist` tab shows the current song, upcoming songs and previous songs. The votes for each song are counted and shown as well.
 
-![](/Assets/djmobile_playlist.png | width=250)
+![](/Assets/djmobile_playlist.png?raw=true width=250 center)
 
 The `Votes` tab shows the top 100 songs and allows a search for more songs. It shows, if the current user has voted for song. By pressing the heard, the song can be upvoted or the vote removed.
 
-![](/Assets/djmobile_votes.png | width=250)
+![](/Assets/djmobile_votes.png?raw=true width=250 center)
 
 The chat is a very simple mesage distribution service which shows all mesages from other user. The aim is showing some kind of public dashboard with comments.
 
-![](//Assets/djmobile_chat.png | width=250)
+![](//Assets/djmobile_chat.png?raw=true width=250 center)
 
 
 ## `EUMEL DJ Desktop` (Desktop)
