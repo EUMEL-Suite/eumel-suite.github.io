@@ -1,8 +1,11 @@
 
 # EUMEL Dj
 
-The EUMEL Dj is part of the EUMEL Suite. The EUMEL Dj is a media player with playlist and voting support. The desktop app shows the playlist and the chat mesages as a "party status". 
-The project page can be found [here](https://github.com/EUMEL-Suite/EUMEL.Dj).
+The EUMEL Dj is part of the EUMEL Suite. The EUMEL Dj is a media player with playlist and voting support. The desktop app shows the playlist and the chat mesages as a "party status". The project page can be found [here](https://github.com/EUMEL-Suite/EUMEL.Dj).
+
+
+<a href='https://play.google.com/store/apps/details?id=de.eumel.dj.mobile&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width='250'/></a>
+
 
 A preview of all binaries can be found on [Github](https://github.com/EUMEL-Suite/EUMEL.Dj/). [Download latest version](https://github.com/EUMEL-Suite/EUMEL.Dj/releases) in Github releases.
 
